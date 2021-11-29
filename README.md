@@ -1,2 +1,2 @@
 # nana
-Nana is an IA that is evolving every day.
+Nana is an AI that is evolving every day.
